@@ -115,7 +115,7 @@
         "playwright-core": "~1.35.1",
         "prom-client": "~13.2.0",
         "prometheus-api-metrics": "~3.2.1",
-        "protobufjs": "~7.1.1",
+        "protobufjs": "~7.2.4",
         "qs": "~6.10.4",
         "redbean-node": "~0.3.0",
         "redis": "~4.5.1",
